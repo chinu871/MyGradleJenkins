@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="org.jetbrains.java.decompiler" min-version="8" max-version="11" />
+  </component>
+</project>
