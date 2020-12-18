@@ -4,7 +4,7 @@ class MyGradleJenkins {
 
     public float getAvg(def sal){
         def avgSal = sal/30
-        println("Avarage monthly salary:"+ avgSal)
+        println("Avarage income month:"+ avgSal)
         return avgSal
     }
 }
