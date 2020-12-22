@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="GradleJenkins.main" target="11" />
       <module name="GradleJenkins.test" target="11" />
+      <module name="MyGradleJenkins.json-prepare.main" target="11" />
+      <module name="MyGradleJenkins.json-prepare.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

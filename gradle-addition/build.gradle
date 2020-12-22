@@ -12,10 +12,4 @@ repositories {
 dependencies {
     compile 'org.codehaus.groovy:groovy-all:2.5.5'
     testCompile 'org.spockframework:spock-core:1.0-groovy-2.4'
-    compile project(':gradle-addition')
-}
-task showDate{
-    doLast{
-        println('current date:'+new Date())
-    }
 }
