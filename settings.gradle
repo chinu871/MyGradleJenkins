@@ -1,6 +1,3 @@
 rootProject.name = 'GradleJenkins'
-//include 'json-display'
-include 'json-display'
-include 'gradle-addition'
-
+include 'gradle-calculation'
 
