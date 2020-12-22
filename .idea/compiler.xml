@@ -2,8 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="GradleJenkins.gradle-simple.main" target="11" />
+      <module name="GradleJenkins.gradle-simple.test" target="11" />
       <module name="GradleJenkins.main" target="11" />
       <module name="GradleJenkins.test" target="11" />
+      <module name="MyGradleJenkins.gradle-addition.main" target="11" />
+      <module name="MyGradleJenkins.gradle-addition.test" target="11" />
+      <module name="MyGradleJenkins.gradle-simple.main" target="11" />
+      <module name="MyGradleJenkins.gradle-simple.test" target="11" />
+      <module name="MyGradleJenkins.GradleJenkins.main" target="11" />
+      <module name="MyGradleJenkins.GradleJenkins.test" target="11" />
+      <module name="MyGradleJenkins.json-display.main" target="1.8" />
+      <module name="MyGradleJenkins.json-display.test" target="1.8" />
       <module name="MyGradleJenkins.json-prepare.main" target="11" />
       <module name="MyGradleJenkins.json-prepare.test" target="11" />
     </bytecodeTargetLevel>

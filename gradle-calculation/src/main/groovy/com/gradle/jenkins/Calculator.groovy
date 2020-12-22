@@ -1,9 +1,9 @@
-package com.gradle.addition
+package com.gradle.jenkins
 
-class MyAddition {
+class Calculator {
+
     public int getAdd(int a, int b){
         int result = a+b
-        println("Addition :"+ result)
         return result
     }
 }
